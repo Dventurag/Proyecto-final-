@@ -1,0 +1,4 @@
+Una empresa que se dedica a cotizar seguros hace sus operaciones de forma manual, 
+lo cual hace que las personas pierdan mucho tiempo y clientes por lo poco agil del proceso.
+Por lo cual se nos pide trabajar en la creacion de un sistema de cotizacion digital que 
+calcule automaticamente los recargos y se agreguen a lo que debe pagar al final.

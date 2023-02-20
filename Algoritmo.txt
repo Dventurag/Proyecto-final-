@@ -1,0 +1,10 @@
+Ejecutar el programa
+Debe ingresar su nombre
+Debe ingresar si esta casado o soltero
+    Si esta casado debe ingresar la edad del conyugue
+Debe ingresar si tiene hijos
+    Si tiene hijos debe colocar la cantidad de hijos que tiene
+Debe ingresar si posee propiedades
+    Si tiene propiedaddes debe indicar cuantas
+Debe ingresar su salario
+El programa respondera cual es el monto a pagar
